@@ -34,9 +34,8 @@
 
 | Frontend | Backend | Database | Other |
 |----------|---------|---------|-------|
-| React.js | Node.js / Express.js | MongoDB Atlas | Bootstrap 5 |
-| React Router DOM | JWT Auth | Mongoose ODM | bcrypt.js |
-| Vanilla CSS & Inline Gradients | CORS Enabled | | |
+| React.js | Node.js | Express.js | MongoDB  | Bootstrap  |
 
----
+
+
 
